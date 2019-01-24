@@ -1,4 +1,7 @@
-Take control of a RGB 12V ledstrip ,using an infrared sensor and an infrared remote control.
+#Arduino remote controlled ledstrip
+
+
+Take control of a RGB 12V ledstrip ,using an infrared sensor and an infrared remote control.Add colour to your room via hidden lighting.
 
 
 
